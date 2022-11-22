@@ -1,11 +1,11 @@
 #Welcome to the OmarYTVlogs 
 
+I am Omar aka OmarYTVlogs i do recently Gaming, Vlogs, Challanges, Also i do livestreaming via Youtube and Facebook. I created this channel on November 19, 2013 I was 6 years old the first ever channel that i did was  
+
 ```
-{
   "firstName": "Omar",
   "lastName": "san buenaventura",
   "age": 15
-}
 ```
 #[Youtube link](https://www.youtube.com/@OmarYTVlogs/featured)
 ---
@@ -18,4 +18,4 @@
 ---
 	[OmarYTVlogs](https://www.youtube.com/watch?v=_JqoHgRFHKA)
 
-That is so funny! :joy:
+
